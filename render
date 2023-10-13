@@ -1,4 +1,3 @@
-        <script>
             function insertTextOnImage() {
                 let outputURL = null;
 
@@ -46,4 +45,4 @@
             }
 
             insertTextOnImage();
-        </script>
+
